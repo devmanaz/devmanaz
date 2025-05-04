@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm DEVAMANAS S</h1>
 
 <p align="">
-  🔭 I’m currently working on <strong>Full stack Development</strong><br>
-  🌱 I’m currently learning <strong>Software Automation</strong><br>
+  🔭 Building the web, one stack at a time.
+  🌱 Learning automation, building smarter systems.
   📫 Reach me at: <a href="mailto:devamanassyamanthakam@gmail.com">devamanassyamanthakam@gmail.com</a>
 </p>
 
