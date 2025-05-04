@@ -43,8 +43,6 @@
 
 ---
 
----
-
 ### 🤝 Connect with Me
 
 <p align="">
