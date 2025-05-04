@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm DEVAMANAS S</h1>
 
-<p align="">
-  🔭 Building the web, one stack at a time.
-  🌱 Learning automation, building smarter systems.
-  📫 Reach me at: <a href="mailto:devamanassyamanthakam@gmail.com">devamanassyamanthakam@gmail.com</a>
-</p>
+  <p>🔭 Building the web, one stack at a time.</p>
+  <p>🌱 Learning automation, building smarter systems.</p>
+  <p>📫 Reach me at: <a href="mailto:devamanassyamanthakam@gmail.com">devamanassyamanthakam@gmail.com</a></p>
 
 ---
 
